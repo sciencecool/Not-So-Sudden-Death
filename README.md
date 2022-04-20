@@ -16,4 +16,5 @@ visualizing.ipynb - visually evaluating performance of the best model on a selec
 Hopefully, the utilization of the .py files becomes obvious as you go through the notebooks.
 
 ## Future work
-Better model performance to increase potential usability of the model as an eSports storytelling aid
+Better model performance to increase potential usability of the model as an eSports storytelling aid  
+More specific framework on evaluating predictions in their usefulness for eSports usecase rather acc/pr/f1 etc
