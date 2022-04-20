@@ -20,4 +20,4 @@ Better model performance to increase potential usability of the model as an eSpo
 More specific framework on evaluating predictions in their usefulness for eSports usecase rather acc/pr/f1 etc
 
 ## Acknowledgements
-This dataset was made possible through the awpy package. **[Xenopoulos, Peter, et al. "Valuing Actions in Counter-Strike: Global Offensive." 2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020]** - https://github.com/pnxenopoulos/awpy
+This dataset was made possible through the awpy package. ***[Xenopoulos, Peter, et al. "Valuing Actions in Counter-Strike: Global Offensive." 2020 IEEE International Conference on Big Data (Big Data). IEEE, 2020]*** - https://github.com/pnxenopoulos/awpy
