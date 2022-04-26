@@ -5,8 +5,8 @@ Code used in my master's thesis to enable real-time prediction of in-game deaths
 You can collect your own raw CS:GO match data from hltv.org by downloading the match demo files directly from this site. They are numbered sequentially (i.e 61234.zip, 61235.zip) so it's trivial to generate a list of files and download them in order, though 1 at a time to avoid throttling.
 Alternatively, you can use my kaggle datasets:
 
-https://www.kaggle.com/datasets/stefan8888/prediction-of-ingame-deaths-in-csgo-raw (Not windowed) - Preferable if you want to do your own windowing (or none at all)  
-https://www.kaggle.com/datasets/stefan8888/prediction-of-ingame-deaths-in-csgo (ML-Ready: Windowed with 5 steps) - Preferable if you want to use my exact data to compare your model performance.
+https://www.kaggle.com/datasets/stefan8888/prediction-of-ingame-deaths-in-csgo-raw (Not windowed) - Preferable if you want to do your own windowing (or none at all). use this data from step 4 and onward in preprocessing.ipynb  
+https://www.kaggle.com/datasets/stefan8888/prediction-of-ingame-deaths-in-csgo (ML-Ready: Windowed with 5 steps) - Preferable if you want to use my exact data to compare your model performance. All steps in preprocessing.ipynb were already completed
 
 ## Notebooks
 preprocessing.ipynb - ETL, data cleaning, feature generation, OHE and splitting the data to make it ready for ML  
